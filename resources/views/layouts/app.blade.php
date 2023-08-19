@@ -15,13 +15,13 @@
     <link rel="icon" type="image/svg+xml" href="{{ secure_asset('icon/laravel.svg') }}">
     <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{ secure_asset('css/dist/font-awesome.min.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('css/dist/bootstrap.min.css') }}" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ secure_asset('css/dist/bootstrap.min.css') }}">
 
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
-    <script src="{{ secure_asset('js/dist/jquery-3.2.1.slim.min.js') }}" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="{{ secure_asset('js/dist/popper.min.js') }}" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="{{ secure_asset('js/dist/bootstrap.min.js') }}" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="{{ secure_asset('js/dist/jquery-3.2.1.slim.min.js') }}"></script>
+    <script src="{{ secure_asset('js/dist/popper.min.js') }}"></script>
+    <script src="{{ secure_asset('js/dist/bootstrap.min.js') }}"></script>
 </head>
 <body class="antialiased">
     <div id="app">

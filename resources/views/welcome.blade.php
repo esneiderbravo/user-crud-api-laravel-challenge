@@ -9,8 +9,8 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
-        <link rel="icon" type="image/svg+xml" href="{{ asset('icon/laravel.svg') }}">
-        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+        <link rel="icon" type="image/svg+xml" href="https://drive.google.com/uc?id=1_x9B5ghBZ2m0_w8Pe8JdrFhquWKzd0JJ">
+        <link href="https://drive.google.com/uc?id=1j5N8mp1AsJqqRyQVoLPyKhlnvD42tAod" rel="stylesheet">
     </head>
     <body class="antialiased">
         <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-center selection:bg-red-500 selection:text-white">

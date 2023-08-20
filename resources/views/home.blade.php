@@ -105,6 +105,6 @@
 </div>
 @endsection
 @section('scripts')
-    <script src="{{ secure_asset('js/home.js') }}"></script>
+    <script src="{{ asset('js/home.js') }}"></script>
 @endsection
 
